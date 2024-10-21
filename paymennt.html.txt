@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="stylee.css">
+</head>
+<body>
+        <ul>
+        <a href="#">Accounts</a>
+        <a onclick="document.getElementById('contain').style.display = 'block' " type="submit" href="#">Payments</a>
+        <a onclick="document.getElementById('container').style.display = 'block' " type="submit" href="#">Employees</a>
+        <a href="#">Analytics</a>
+        <a href="#">Loans</a>
+        <button class="icon">&#9750;</button>
+        <button class="pink">Paper Solution LLC <button  onclick="document.getElementById('contin').style.display = 'block' " type="submit" class="milk">P</button>
+        </button>
+        </ul>
+        <div id="contain" class="contain">
+            <form action="" onclick="document.getElementById('contain').style.display = 'none' ">
+                <p><br>&nbsp; &nbsp; &nbsp; &nbsp;Account Balance<br>
+                    <span class="dollar">&nbsp; &nbsp;$1,282,560
+                        <span class="cent">.25<br>
+                            <span class="enemy">&nbsp; &nbsp;&nbsp; &nbsp;-$1,060.00 in pending transactions</span>
+                        </span>
+                    </span>
+                </p>
+                <p class="monkey">
+                    <button class="send">$</button>
+                    <button class="withdraw">&#9763;</button>
+                    <button class="statement">&#9772;</button>
+                    <span class="man"><br><br>&nbsp; &nbsp; &nbsp; &nbsp;Send</span>
+                    <span class="mans">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Withdraw</span>
+                    <span class="manss"> &nbsp; &nbsp; &nbsp; &nbsp;Statement</span>
+                    <span class="cards"><br><br>Account Cards<span class="cardss"><br>For your company everyday expenses </span></span>
+                </p>
+                <img src="cardsss.png" alt="" class="resize">
+                <button class="product">&#10023;</i> New card product</button>
+                <p class="hazard">
+                    <span class="hakuna"><br>&nbsp;&nbsp;&nbsp;Register &nbsp;&nbsp;#284 <span class="matata">&nbsp;&nbsp;Pending <span class="shinchan"><br>&nbsp;&nbsp;$103,450.50</span></span></span>
+                    <br>&nbsp;&nbsp;&nbsp;<button class="doreamon">$ Send Payouts</button> &nbsp;&nbsp;<button class="hulk">&#9771;</button>
+                    
+                    
+                    
+                </p>
+                <p class="hazard2">
+                    <button class="kngfu">&#9741; Import</button>
+                </p>
+                <p class="sriram"><span class="thor"><br><br>&nbsp;&nbsp;&nbsp;New Register <span class="loki"><br><br>&nbsp;&nbsp;&nbsp;Payout register to select employees</span></span></p>
+                
+                <p class="sriram2"><button class="kungfu">&#9774; Manual</button>
+                </p>
+                <p class="sriram3">
+                    <span class="mango"><br><br>&nbsp;&nbsp;&nbsp;Schedules <span class="joker"><br><br>&nbsp;&nbsp;&nbsp;2 active payout schedules</span></span>
+                    <br><button class="setup"><span class="maraco">&#9737;</span><span class="kokoo">&nbsp;&nbsp;Setup</span></button>
+                    
+                </p>
+                <p class="krishna1">
+                    <span class="game"><br>&nbsp;&nbsp;&nbsp;&nbsp;Payments</span><input class="search" type="search" placeholder="Search employees">
+                </p>
+                <p class="krishna2">
+                    
+                    <span class="vk">&nbsp;&nbsp;&nbsp;&nbsp;V<span class="america">&nbsp;&nbsp;&nbsp;&nbsp;Register #281 <span class="india">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22 employees <span class="hyderabad">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Total:$67,920.40</span></span></span></span>
+                    
+                </p>
+                <p class="krishna3">
+                    <button class="last07">::</button>
+                    <button class="last09">ID:934652</button>
+                    <img class="memory" src="telez.png" alt="">
+                    <span class="names">Alia Bonner</span>
+                    <span class="numeric">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$9,620.24</span>
+                    
+                    
+                </p>
+                <p class="krishna4">
+                    <button class="last07">::</button>
+                    <button class="last09">ID:934652</button>
+                    <img class="memory" src="telez.png" alt="">
+                    <span class="names">Carmenlu</span>
+                    <span class="numeric">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$8,120.25</span>
+                </p>
+                <p class="krishna5">
+                    <button class="last07">::</button>
+                    <button class="last09">ID:934652</button>
+                    <img class="memory" src="telez.png" alt="">
+                    <span class="names">Mizilie</span>
+                    <span class="numeric">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$4,470.70</span>
+                </p>
+                <p class="krishna6">
+                    <button class="last07">::</button>
+                    <button class="last09">ID:934652</button>
+                    <img class="memory" src="telez.png" alt="">
+                    <span class="names">Turnerz</span>
+                    <span class="numeric">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$3,170.30</span>
+                </p>
+                <p class="krishna7"><button class="last07">::</button>
+                    <button class="last09">ID:934652</button>
+                    <img class="memory" src="telez.png" alt="">
+                    <span class="names">Krishna</span>
+                    <span class="numeric">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$2,420.20</span>
+                </p>
+                <p class="krishna8"><button class="last07">::</button>
+                    <button class="last09">ID:934652</button>
+                    <img class="memory" src="telez.png" alt="">
+                    <span class="names">Vamshi</span>
+                    <span class="numeric">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$4,120.00</span>
+                    
+                </p>
+                <p class="krishna01">
+                    <button class="pot">Pending</button>
+                </p>
+                <p class="krishna02">
+                    <button class="pot">Pending</button>
+                </p>
+                <p class="krishna03">
+                    <button class="pott">Paid</button>
+                </p>
+                <p class="krishna04">
+                    <button class="pott2">Paid</button>
+                </p>
+                <p class="krishna05">
+                    <button class="pott1">Paid</button>
+                </p>
+                <p class="krishna06">
+                    <button class="pott">Paid</button>
+                </p>
+                <p class="marvel"><button class="chrome"><</button> </p>
+                <p class="marvel1">
+                    <button class="chicken">&#10023;</button>
+                    <button class="venom"><h2>RSTR+</h2></button>
+                </p>
+                
+                    
+          </form>
+        </div>
+        <div id="contin" class="contin">
+            <form action="" onclick="document.getElementById('contin').style.display = 'none' ">
+                <p class="hazards">
+                    
+                </p>
+                <p class="mind">
+                    <button class="totals">TOTAL</button>
+                    <br><button class="totalss">$4,563.20</button>
+                    <button class="view">view details</button>
+                    <form class="rover" action="">
+                        <label for=""><br><br><br><br>CARD Number</label>
+                        <br><input type="number" placeholder="4803 - 9870 - 1001 - 1234">
+                        <label for=""><br>EXPIRY DATE</label><br>
+                        <input type="date" name="expiry_date" value="2022-02-20">
+                        <label for=""><br>CVV NUMBER<br></label>
+                        <input type="text" placeholder="***">
+                    </form>
+                    
+                
+                </p>
+                <p class="mind22">
+                    
+                        <button class="totallss">&#9772;</button>
+                    <br><br><br<input type="search" placeholder="Find yourself">
+                   <input type="email" placeholder="type your mail">
+                    <input type="number" placeholder="type your NO">
+                    <br><input type="submit" value="submit"><br>
+                    <a href="https://t.me/krishnanetha393"><img class="icons" src="telegrammm.png" alt=""></a>
+                    <a href="https://wa.me/+916303230227"><img class="move" src="whatsappo.png" alt=""></a>
+                    
+                    
+                </p>
+                <p class="mind222"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<</p>
+            </form>
+        </div>
+        
+</body>
+</html>
